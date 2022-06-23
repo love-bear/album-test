@@ -1,2 +1,2 @@
-# album-test
-Test website for photo album features
+# ar-studio-blog.github.io
+Photography
